@@ -12,10 +12,8 @@
 
 ### 🧩 About Me
 
-- 🌍 Based in **Tehran, Iran** — open to **remote, international collaborations**  
-- 💼 **Frontend Developer at [Danamit](https://danamit.com)**  
-- 🎓 **B.Sc. in Computer Engineering** — Islamic Azad University (Central Tehran Branch)  
-- 💬 Fluent in English (**IELTS 8**) — Former **English Teacher (6 years)**  
+- 🌍 Based in **Tehran, Iran** — open to **remote, international collaborations**   
+- 💬 Fluent in English (**IELTS 7**) — Former **English Teacher (6 years)**  
 - 🧠 Passionate about **AI, Gamification, and Scalable System Design**  
 - ✨ “Code with clarity, teach with patience, and always keep learning.”
 
@@ -71,27 +69,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheBigNik&layout=compact&theme=tokyonight&langs_count=8" />
 </p>
 
----
-
-### 🧩 Experience
-
-#### 🧠 **Frontend Developer – Danamit**
-*2025 – Present*  
-Building gamified educational systems with React & Next.js. Developed dynamic UI states, media handling logic, and custom admin dashboards.
-
-#### 💻 **Freelance Full-Stack Developer**
-*2021 – Present*  
-Delivered full-stack solutions using Django REST Framework and React. Focused on clean architecture, RESTful APIs, and modern UI/UX design.
-
-#### 🎓 **English Instructor – Safir Language Academy / Tehran Technical Complex**
-*2018 – 2024*  
-Taught IELTS and advanced English courses. Strengthened communication, leadership, and presentation skills — vital assets in teamwork and collaboration.
 
 ---
 
 ### 💬 Languages
 🇮🇷 **Persian:** Native  
-🇬🇧 **English:** Fluent (IELTS 8)
+🇬🇧 **English:** Fluent (IELTS 7)
 
 ---
 
